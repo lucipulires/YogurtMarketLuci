@@ -1,0 +1,89 @@
+# =====================
+# Java / Maven
+# =====================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+!**/maven-wrapper.jar
+
+# =====================
+# Spring Boot
+# =====================
+*.log
+spring.log
+
+# =====================
+# IDEs
+# =====================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =====================
+# Sistema Operativo
+# =====================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# =====================
+# Seguridad / Secrets
+# =====================
+*.env
+.env
+application-local.properties
+application-secret.properties
+secrets/
+
+# =====================
+# Otros
+# =====================
+*.swp
+*.swo
+*.bak
+*.tmp

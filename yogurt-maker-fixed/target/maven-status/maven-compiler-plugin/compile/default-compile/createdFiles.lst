@@ -1,0 +1,4 @@
+com\danieldev87\demo\DemoApplication.class
+com\danieldev87\demo\domain\controller\RecipeController.class
+com\danieldev87\demo\domain\controller\YogurtBatchController.class
+com\danieldev87\demo\domain\controller\MonitoringController.class
